@@ -1,0 +1,8 @@
+---
+description: Always-on project guardrails
+alwaysApply: true
+---
+Before doing anything: read `OBJECTIVE.md`, `AGENTS.md`, and `PROGRESS.md` in the repo root.
+Contracts live in `docs/ARCHITECTURE.md` (data model + API). Do not change them without asking.
+If a request conflicts with OBJECTIVE.md, stop and ask. At the end of every task, update PROGRESS.md.
+Load the matching skill from `skills/*/SKILL.md` before working in its area.
